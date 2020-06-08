@@ -35,4 +35,4 @@
 [원문링크](https://lodev.org/cgtutor/raycasting.html#Introduction)
 <br>
 
-[__다음편으로 : 아주 기본적인 원리__](https://github.com/365kim/raycasting_tutorial/2_basics.md)
+[__다음편으로 : 아주 기본적인 원리__](https://github.com/365kim/raycasting_tutorial/blob/master/2_basics.md)
