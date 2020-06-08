@@ -106,7 +106,7 @@
 <br>
 <br> 
        
-![8](https://user-images.githubusercontent.com/60066472/83316376-6dbec380-a260-11ea-87c2-1eb97233bc0d.gif)　
+　　　　![8](https://user-images.githubusercontent.com/60066472/83316376-6dbec380-a260-11ea-87c2-1eb97233bc0d.gif)　
 ![9](https://user-images.githubusercontent.com/60066472/83316377-6e575a00-a260-11ea-8989-d76b4bcf06a6.gif)
 ![10](https://user-images.githubusercontent.com/60066472/83316380-6e575a00-a260-11ea-9fdd-72c07b6307aa.gif)
 - 바깥쪽 선 두개는 스크린의 왼쪽/오른쪽 경계이고, 두 선 사이의 각도를 __FOV__ (Field of View) 라고 합니다. 
