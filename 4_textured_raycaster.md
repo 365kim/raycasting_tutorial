@@ -371,6 +371,6 @@ Uint32 color = texture[texNum][texSize * texX + texY];
 [[원문링크]](https://lodev.org/cgtutor/raycasting.html#Textured_Raycaster)
 <br>
 <br>
-[[전편으로] 중급 : 예제코드로 이해하는 레이캐스터 구현 (untextured)]https://github.com/365kim/raycasting_tutorial/blob/master/3_untextured_raycaster.md
+[[전편으로] 중급 : 예제코드로 이해하는 레이캐스터 구현 (untextured)](https://github.com/365kim/raycasting_tutorial/blob/master/3_untextured_raycaster.md)
 <br>
 [__[다음편으로] 보충 : Wolfenstein의 3D 텍스처__](https://github.com/365kim/raycasting_tutorial/blob/master/5_wolfenstein_texture.md)
