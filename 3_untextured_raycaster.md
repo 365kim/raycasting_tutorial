@@ -513,7 +513,7 @@ And the derivation of the perpWallDist computation above then is:
 <br>
 
 
-[원문링크](https://lodev.org/cgtutor/raycasting.html#The_Basic_Idea_)
+[원문링크](https://lodev.org/cgtutor/raycasting.html#Untextured_Raycaster_)
 <br>
 <br>
 [[전편으로] 기초 : 아주 기본적인 원리](https://github.com/365kim/raycasting_tutorial/blob/master/2_basics.md)<br>
