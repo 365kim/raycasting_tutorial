@@ -12,4 +12,4 @@
 #### 번역안내
 - [__Lode's Computer Graphics Tutorial__ (튜토리얼 원문)](https://lodev.org/cgtutor/raycasting.html)
 - 레이캐스팅 튜토리얼 작성자 __Lode Vandevenne__ 님의 허락을 받아 번역하였습니다. [(저작권 안내)](https://lodev.org/cgtutor/legal.html) 
-- 오탈자/번역오류 수정요청은 mihykim@student.42seoul.kr로 보내주시면 감사하겠습니다
+- 오탈자/번역오류 수정요청은 mihykim@student.42seoul.kr로 보내주시거나 PR 올려주시면 감사하겠습니다
